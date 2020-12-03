@@ -26,5 +26,8 @@
     "core-js": "^3.8.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
   }
 }
