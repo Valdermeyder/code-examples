@@ -1,0 +1,30 @@
+{
+  "name": "react-examples",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Simple react examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "vguzar@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@storybook/addon-actions": "^6.1.9",
+    "@storybook/addon-essentials": "^6.1.9",
+    "@storybook/addon-links": "^6.1.9",
+    "@storybook/addon-storysource": "^6.1.9",
+    "@storybook/react": "^6.1.9",
+    "babel-loader": "^8.2.2",
+    "core-js": "^3.8.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1"
+  }
+}
